@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "studentName": "Barkın Onay Sayın",
+      "course": "Onay Teknikleri",
+      "instructor": "Hicran Ertuğral",
+      "id": "001"
+    },
+    {
+      "studentName": "Ege Ercallbek",
+      "course": "JavaScript",
+      "instructor": "Buse Uğraş",
+      "id": "002"
+    },
+    {
+      "studentName": "Flex Berkay Turna",
+      "course": "Html Css",
+      "instructor": "Orkun Durmaz",
+      "id": "003"
+    }
+  ]
+}
